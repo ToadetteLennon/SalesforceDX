@@ -1,0 +1,16 @@
+Que es un process Builder ?
+Es una herramienta de automatización de procesos de negocios, es mas actualizada que un workflow rule:
+
+Process Builder supports:
+-Llamar una clase Apex (@InvocableMethod)
+-Creación de registros
+-Email Alerts
+-Flows
+-Postear en Chatter
+-Procesos 
+-Quick actions
+-Quip (autocrate a quip document)
+-Send custom notifications
+-Send survey invitation
+-Aprobar un aproval process
+-Updated records
