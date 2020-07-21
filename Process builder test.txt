@@ -1,0 +1,29 @@
+Process Builder Test
+
+What is a process builder?
+R= It's an automation tool, Process builder is more updated than workflow.
+
+Which benefits have a process builder (mentioned three)?
+R=Post on Chatter, Updated records, Call an Apex Class(@InvocableMethod)
+(https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm)
+
+What kind of metadata is used on process builder?
+R=FlowDefinition and Flow
+
+FlowDefinition
+Represents the flow definition’s description and active flow version number. (https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_flowdefinition.htm)
+
+A process Builder can send outbound messages? 
+Yes [ ]     No[X]
+
+Metioned the steps to download a process builder and make a commit with this metadata on GitHub 
+1. Open VS Code
+2. Open your folder
+3. Go to the Org Browser (cloud)
+4. Search your process builder in the folder (Flow)
+5. Download your file
+6. Open the terminal
+7. Write the next commands
+  git add .
+  git commit -m "chore(Flows):whire a message"
+  git push
